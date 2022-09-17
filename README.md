@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Blogging-Site](https://github.com/babudan/Mini-Blogging-Site.git)
 
-- 🌱 I’m currently learning **Nodejs (Express),**
+- 🌱 I’m currently learning **Nodejs (Express)**
 
 - 💬 Ask me about **MERN**
 
