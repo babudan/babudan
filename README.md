@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babudan&show_icons=true&locale=en" alt="babudan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babudan&" alt="babudan" /></p>
+
+![snake gif](https://github.com/babudan/babudan/blob/output/github-contribution-grid-snake.gif)
